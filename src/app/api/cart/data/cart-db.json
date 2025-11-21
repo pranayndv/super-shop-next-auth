@@ -1,0 +1,24 @@
+{
+  "2": [
+    {
+      "id": "2",
+      "name": "Classic Blue Denim Jacket",
+      "gender": "men",
+      "category": "jacket",
+      "price": 59.99,
+      "imageUrl": "https://m.media-amazon.com/images/I/81c9RipiB0L._UY1000_.jpg",
+      "description": "A timeless blue denim jacket with a modern cut. Pairs effortlessly with shirts or tees for a casual yet classic look.",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "Floral Summer Dress",
+      "gender": "women",
+      "category": "dress",
+      "price": 64.99,
+      "imageUrl": "https://m.media-amazon.com/images/I/81GDGK4ficL._UY1100_.jpg",
+      "description": "Lightweight summer dress with a floral pattern and flowy fit. Designed for comfort and style on warm sunny days.",
+      "quantity": 1
+    }
+  ]
+}
